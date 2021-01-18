@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        nuxt-mission-yarn
+        Nuxt Planetas
       </h1>
       <PlanetList />
     </div>
